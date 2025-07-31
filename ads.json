@@ -1,5 +1,5 @@
 {
-  "ad_status": "1",
+  "ad_status": "0",
   "ad_network": "admob",
   "admob_ids": {
     "banner": "ca-app-pub-3940256099942544/6300978111",
