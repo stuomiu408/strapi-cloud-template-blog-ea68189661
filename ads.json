@@ -7,8 +7,15 @@
     "native": "ca-app-pub-3940256099942544/2247696110",
     "app_open": "ca-app-pub-3940256099942544/9257395921"
   },
+  "interstitial_ad_interval": 2,
   "privacy_policy_url": "https://sites.google.com/view/speechai-privacy-policy",
   "tnc_url": "https://sites.google.com/view/speechai-terms",
   "more_app_url": "https://play.google.com/store/apps/dev?id=7557967758400334031",
-  "enable_gdpr_ump_sdk": true
+  "enable_gdpr_ump_sdk": true,
+  "in_app_subscriptions": {
+    "monthly": "magic_dalle3_monthly_sub",
+    "weekly": "magic_dalle3_weekly_sub",
+    "yearly": "magic_dalle3_yearly_sub",
+    "license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1/aidzR7Jbf7hhX4Y5QvhkWRsRT00MdToYoaNX9Supf8ENznmwSt6IrvrpOZV9rhDI6GP65k1miFxslrumChuRIrot+GBe4VUMhbRzYX0s7xvl4VbBN9z1rzNHPP6i4M9rghgsAgg5HpJu9R/mB48ps+xatWDJsfRoCiFHpc1thbUhAWUm5TJfxMCfm0qQ3CoLPT27x9hBp1AugEVetcm4+0G9MJyXc0bBuqQzeEstGtt6jrRhhtQjPG0Na06dzym35RK8pAoTHJ+OJLuNAU6LJ0E5PdV5gKOUZTHuxobPfUe7qefX1SduziLrKzbG2Bxt/Qwi3An75kgMlH3tPutwIDAQAB"
+  }
 }
