@@ -1,0 +1,14 @@
+{
+  "ad_status": "1",
+  "ad_network": "admob",
+  "admob_ids": {
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "app_open": "ca-app-pub-3940256099942544/9257395921"
+  },
+  "privacy_policy_url": "https://sites.google.com/view/speechai-privacy-policy",
+  "tnc_url": "https://sites.google.com/view/speechai-terms",
+  "more_app_url": "https://play.google.com/store/apps/dev?id=7557967758400334031",
+  "enable_gdpr_ump_sdk": true
+}
